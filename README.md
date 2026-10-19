@@ -1,6 +1,6 @@
 # CodeAlpha — Sales Prediction
 
-CodeAlpha Data Science Task 4: predict Sales from the supplied TV, Radio, and Newspaper measurements. This project delivers a reproducible regression experiment, notebook, analysis tables, charts, and a standard design report.
+Predict sales from TV, radio, and newspaper advertising measurements using Python regression models. Includes data cleaning, model comparison, held-out evaluation, marketing insights, an executed notebook, and reports. The results describe associations in the supplied data rather than causal effects or time-based forecasts.
 
 ## Run
 
@@ -47,3 +47,12 @@ This repository covers the technical project. Submission forms and any personal 
 - [Editable DOCX report](report/report.docx)
 
 The committed notebook contains outputs from a successful full execution. The included GitHub Actions workflow reproduces the analysis on Python 3.12. View the Actions tab for the current GitHub run status.
+
+## Submission downloads
+
+- [Complete four-project submission package](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Submission.zip)
+- [Combined PDF report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.pdf) · [Editable Word report](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/CodeAlpha_DataScience_Design_Report.docx)
+- [Submission checklist](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/SUBMISSION_CHECKLIST.pdf) · [Video explanation scripts](https://raw.githubusercontent.com/nisa3131/CodeAlpha_IrisFlowerClassification/main/submission/VIDEO_EXPLANATION_SCRIPTS.md)
+- [Download this project as a ZIP](https://github.com/nisa3131/CodeAlpha_SalesPrediction/archive/refs/heads/main.zip)
+
+The complete package includes the four projects, executed notebooks, datasets, results, charts, individual reports, the combined report, and submission guidance. The shared downloads are hosted in the Iris repository's `submission/` folder. Record/post the required explanation videos and complete the official submission form separately.
