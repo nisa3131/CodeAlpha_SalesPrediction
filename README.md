@@ -46,4 +46,4 @@ This repository covers the technical project. Submission forms and any personal 
 - [PDF report](report/report.pdf)
 - [Editable DOCX report](report/report.docx)
 
-The committed notebook contains outputs from a successful full execution. The included GitHub Actions workflow reproduces the analysis on Python 3.12; its first GitHub run is pending publication.
+The committed notebook contains outputs from a successful full execution. The included GitHub Actions workflow reproduces the analysis on Python 3.12. View the Actions tab for the current GitHub run status.
