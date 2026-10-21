@@ -1,4 +1,4 @@
-# CodeAlpha — Sales Prediction
+# Sales Prediction
 
 Predict sales from TV, radio, and newspaper advertising measurements using Python regression models. Includes data cleaning, model comparison, held-out evaluation, marketing insights, an executed notebook, and reports. The results describe associations in the supplied data rather than causal effects or time-based forecasts.
 
